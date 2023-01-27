@@ -731,7 +731,12 @@ margin-right: 24px;
     border: 1px solid rgba(255, 255, 255, 0.3);
     background-color: #2E2F42;
     color: rgba(255, 255, 255, 0.9);
-    
+
+}
+
+.subscribe-group .input:not(:placeholder-shown){
+    font-size: 16px;
+    padding: 4px 16px;
 }
 
 .subscribe-group .input:focus, .subscribe-group .input:hover, .subscribe-group .input:active{
