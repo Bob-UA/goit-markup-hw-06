@@ -337,6 +337,7 @@ transform: scaleX(1);
 
 .modal .form .tagline{
     font-weight: var(--font-weight-medium);
+    font-size: inherit;
     color: #2E2F42;
     text-align: center
 }
