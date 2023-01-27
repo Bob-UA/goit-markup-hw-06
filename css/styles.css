@@ -412,8 +412,8 @@ transform: scaleX(1);
 
 .form .item:last-of-type .label{
     position: relative;
-    display: flex;
-    align-items: center;
+    /* display: flex; */
+    /* align-items: center; */
 }
 
 .checkbox-block{
